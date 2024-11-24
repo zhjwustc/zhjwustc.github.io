@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhang Jiawei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "ShenZhen, GuangDong, China"
   employer         : "Sensetime"
   uri              : # URL
