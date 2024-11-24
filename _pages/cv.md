@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, City University of Hong Kong, 2014-2018
+* M.S. in Institute of Acoustic, Chinese Academy of Sciences, 2011-2014
+* B.S. in Electronic Engineering and Information Science, University of Science and Technology of China, 2007-2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018-: Staff in Sensetime
+  * Low-level Vision for Camera Phones
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018: Intern in WeRide
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017: Intern in Sensetime
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2016-2017: Visiting Student in UC Merced
+
+* 2013-2014: Visiting Student in UCLA
   
-Talks
+Service
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer for ICML, ICLR, NIPS, CVPR, ICCV, ECCV
+* Area Chair for ICML(2024, 2025), ICLR(2024), NIPS(2024)
+* Outstanding Reviewer(2023)
