@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Bio
+======
+
+Zhang Jiawei currently works for SenseTime Research. He obtained a PhD degree from CS of City University of Hong Kong in 2018, a master degree from Institute of Acoustics, Chinese Academy of Sciences (IACAS) in 2014, and a bachelor degree from EEIS of University of Science and Technology of China (USTC) in 2011. He visited UCLA and UC Merced in 2013 and 2017 respectively. He also has an internship in SenseTime Research in 2017 and Jingchi Corp in 2018. He is currently interested in applying low-level vision technologies to mobile cameras.
 
 A data-driven personal website
 ======
