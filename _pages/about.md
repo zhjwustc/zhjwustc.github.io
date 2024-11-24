@@ -17,4 +17,4 @@ Service
 
 Selected Publications
 ======
-!(/imgs/17icip_hand.png)
+![](/imgs/17icip_hand.png)
