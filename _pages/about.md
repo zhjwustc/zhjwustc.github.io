@@ -17,4 +17,5 @@ Service
 
 Selected Publications
 ======
-![](/imgs/17icip_hand.png)
+* Deep Dynamic Scene Deblurring from Optical Flow. TCSVT. [paper](https://ieeexplore.ieee.org/document/9443198), [arxiv](https://arxiv.org/pdf/2301.07329)  and [code](https://github.com/zhjwustc/cvpr18_rnn_deblur_matcaffe)
+
