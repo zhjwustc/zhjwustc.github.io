@@ -13,4 +13,7 @@ Service
 ======
 * Reviewer for ICML, ICLR, NIPS, CVPR, ICCV, ECCV
 * Area Chair for ICML(2024, 2025), ICLR(2024), NIPS(2024)
-* Outstanding Reviewer(2023)
+* Outstanding Reviewer for CVPR(2023)
+
+Selected Publications
+======
