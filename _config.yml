@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhang Jiawei"
+name                     : &name "张佳维 Zhang Jiawei"
 description              : &description "personal description"
 url                      : https://zhjwustc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
