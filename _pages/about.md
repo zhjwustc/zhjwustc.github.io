@@ -17,7 +17,12 @@ Service
 
 Selected Publications
 ======
-* Deep Dynamic Scene Deblurring from Optical Flow. TCSVT 2023. [paper](https://ieeexplore.ieee.org/document/9443198), [arxiv](https://arxiv.org/pdf/2301.07329)  and [code](https://github.com/zhjwustc/cvpr18_rnn_deblur_matcaffe)
+* DiffRetouch: Using Diffusion to Retouch on the Shoulder of Experts. 2024. [arxiv](https://arxiv.org/pdf/2407.03757)
+* Deep Richardson–Lucy deconvolution for low-light image deblurring. IJCV 2024. [paper](https://link.springer.com/article/10.1007/s11263-023-01877-9) and [arxiv](https://arxiv.org/pdf/2308.05543)
+* Diffusion-based Blind Text Image Super-Resolution. CVPR 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Diffusion-based_Blind_Text_Image_Super-Resolution_CVPR_2024_paper.pdf) and [code](https://github.com/YuzheZhang-1999/DiffTSR)
+* RestoreFormer++: Towards Real-World Blind Face Restoration From Undegraded Key-Value Pairs. TPAMI 2023. [paper]{https://ieeexplore.ieee.org/abstract/document/10251989}, [arxiv](https://arxiv.org/pdf/2308.07228) and [code](https://github.com/wzhouxiff/RestoreFormerPlusPlus)
+* Restoreformer: High-quality blind face restoration from undegraded key-value pairs. CVPR 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_RestoreFormer_High-Quality_Blind_Face_Restoration_From_Undegraded_Key-Value_Pairs_CVPR_2022_paper.pdf), [code](https://github.com/wzhouxiff/RestoreFormer) and [huggingface](https://huggingface.co/spaces/wzhouxiff/RestoreFormerPlusPlus)
+* Deep Dynamic Scene Deblurring from Optical Flow. TCSVT 2021. [paper](https://ieeexplore.ieee.org/document/9443198), [arxiv](https://arxiv.org/pdf/2301.07329)  and [code](https://github.com/zhjwustc/cvpr18_rnn_deblur_matcaffe)
 * Blind deblurring for saturated images. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Blind_Deblurring_for_Saturated_Images_CVPR_2021_paper.pdf) and [code](https://drive.google.com/file/d/1Yyyub_ylDY5IXfE57DvsdecG7HlkSFBS/view)
 * Learning a non-blind deblurring network for night blurry images. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_a_Non-Blind_Deblurring_Network_for_Night_Blurry_Images_CVPR_2021_paper.pdf), [code](https://drive.google.com/file/d/1Dxnr3vHLqA2mpDelSWxJxv2Ek84NoTwH/view) and [dataset](https://drive.google.com/file/d/1C7J9rn2xbeJ4-Aom4KEQJdpFyBd2M4Zv/view)
 * Cross-scale internal graph neural network for image super-resolution. NIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/file/23ad3e314e2a2b43b4c720507cec0723-Paper.pdf) and [code](https://github.com/sczhou/IGNN)
