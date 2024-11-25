@@ -22,9 +22,6 @@ Selected Publications
 * Learning Fully Convolutional Networks for Iterative Non-blind Deconvolution. CVPR 2017. [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Fully_Convolutional_CVPR_2017_paper.pdf) and [testing code](https://github.com/zhjwustc/cvpr17_iter_deblur_testing_matconvnet)/[training and testing code](https://github.com/zhjwustc/cvpr17_iter_deblur_matcaffe)
 * 3D Hand Pose Tracking and Estimation Using a Stereo Camera. ICIP 2017.  [paper](https://ieeexplore.ieee.org/document/8296428), [arxiv](https://arxiv.org/pdf/1610.07214), Dataset download from [onedrive](https://portland-my.sharepoint.com/personal/jiawzhang8-c_my_cityu_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjiawzhang8%2Dc%5Fmy%5Fcityu%5Fedu%5Fhk%2FDocuments%2Fstereo%20hand%20pose%20dataset&ga=1)  or [baidu pan](https://pan.baidu.com/s/1Aq27-Ntyz_fqyiT-T9af0w?pwd=1234)(code: 1234) and [github](https://github.com/zhjwustc/icip17_stereo_hand_pose_dataset)
 
-\begin{minipage}[t]{0.5\linewidth}
-<img src='/images/500x300.png'> 
-\end{minipage}
-\begin{minipage}[t]{0.5\linewidth}
-Content on the right hand side
-\end{minipage}
+
+<img align=left src='/images/500x300.png'> 
+
