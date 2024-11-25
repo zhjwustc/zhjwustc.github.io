@@ -23,5 +23,5 @@ Selected Publications
 * 3D Hand Pose Tracking and Estimation Using a Stereo Camera. ICIP 2017.  [paper](https://ieeexplore.ieee.org/document/8296428), [arxiv](https://arxiv.org/pdf/1610.07214), Dataset download from [onedrive](https://portland-my.sharepoint.com/personal/jiawzhang8-c_my_cityu_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjiawzhang8%2Dc%5Fmy%5Fcityu%5Fedu%5Fhk%2FDocuments%2Fstereo%20hand%20pose%20dataset&ga=1)  or [baidu pan](https://pan.baidu.com/s/1Aq27-Ntyz_fqyiT-T9af0w?pwd=1234)(code: 1234) and [github](https://github.com/zhjwustc/icip17_stereo_hand_pose_dataset)
 
 
-# [aaaaaaaaaa <br/> bbbbbbbbbbb <br/> ccccccccccccccccc]<img align=left width=100 height=60 src='/images/17icip_hand.png'>
+% [aaaaaaaaaa <br/> bbbbbbbbbbb <br/> ccccccccccccccccc]<img align=left width=100 height=60 src='/images/17icip_hand.png'>
 
