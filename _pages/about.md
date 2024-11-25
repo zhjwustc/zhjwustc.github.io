@@ -24,5 +24,5 @@ Selected Publications
 
 
 <img align=left src='/images/500x300.png'> 
-* 1
-* 2
+* aaaaaaaaaa
+* bbbbbbbbbbb
