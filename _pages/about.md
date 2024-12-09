@@ -18,6 +18,7 @@ Service
 Selected Publications
 ======
 * DiffRetouch: Using Diffusion to Retouch on the Shoulder of Experts. 2024. [arxiv](https://arxiv.org/pdf/2407.03757)
+* Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos. TIP 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10693312/), [arxiv](https://arxiv.org/abs/2410.11828) and [code](https://wzhouxiff.github.io/projects/FIR2FVR/FIR2FVR)
 * Deep Richardson–Lucy deconvolution for low-light image deblurring. IJCV 2024. [paper](https://link.springer.com/article/10.1007/s11263-023-01877-9) and [arxiv](https://arxiv.org/pdf/2308.05543)
 * Diffusion-based Blind Text Image Super-Resolution. CVPR 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Diffusion-based_Blind_Text_Image_Super-Resolution_CVPR_2024_paper.pdf) and [code](https://github.com/YuzheZhang-1999/DiffTSR)
 * RestoreFormer++: Towards Real-World Blind Face Restoration From Undegraded Key-Value Pairs. TPAMI 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10251989), [arxiv](https://arxiv.org/pdf/2308.07228) and [code](https://github.com/wzhouxiff/RestoreFormerPlusPlus)
