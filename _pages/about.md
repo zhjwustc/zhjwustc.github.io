@@ -17,8 +17,10 @@ Service
 
 Selected Publications
 ======
-* A Diffusion-Based Framework for Occluded Object Movement. AAAI 2025
-* DiffRetouch: Using Diffusion to Retouch on the Shoulder of Experts. AAAI 2025. [arxiv](https://arxiv.org/pdf/2407.03757)
+* DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution. [arxiv](https://arxiv.org/pdf/2503.23580?) and [code](https://adam-duan.github.io/projects/dit4sr/)
+* DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models. [arxiv](https://arxiv.org/pdf/2502.03810) and [code](https://github.com/kkkls/DeblurDiff)
+* A Diffusion-Based Framework for Occluded Object Movement. AAAI 2025. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32287/34442) and [arxiv](https://arxiv.org/pdf/2504.01873)
+* DiffRetouch: Using Diffusion to Retouch on the Shoulder of Experts. AAAI 2025. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32288/34443) and [arxiv](https://arxiv.org/pdf/2407.03757)
 * Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos. TIP 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10693312/), [arxiv](https://arxiv.org/abs/2410.11828) and [code](https://wzhouxiff.github.io/projects/FIR2FVR/FIR2FVR)
 * Deep Richardson–Lucy deconvolution for low-light image deblurring. IJCV 2024. [paper](https://link.springer.com/article/10.1007/s11263-023-01877-9) and [arxiv](https://arxiv.org/pdf/2308.05543)
 * Diffusion-based Blind Text Image Super-Resolution. CVPR 2024. [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Diffusion-based_Blind_Text_Image_Super-Resolution_CVPR_2024_paper.pdf) and [code](https://github.com/YuzheZhang-1999/DiffTSR)
