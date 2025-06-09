@@ -31,5 +31,5 @@ Work experience
 Service
 ======
 * Reviewer for ICML, ICLR, NIPS, CVPR, ICCV, ECCV, TPAMI, IJCV, TIP
-* Area Chair for ICML(2024, 2025), ICLR(2024), NIPS(2024)
+* Area Chair for ICML(2024, 2025), ICLR(2024, 2025), NIPS(2024, 2025)
 * Outstanding Reviewer for CVPR(2023)
