@@ -12,7 +12,7 @@ Zhang Jiawei currently works for [SenseTime](https://www.sensetime.com/en). He o
 Selected Publications
 ======
 * DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution. ICCV 2025. [arxiv](https://arxiv.org/pdf/2503.23580?), [code](https://adam-duan.github.io/projects/dit4sr/) and [huggingface](https://huggingface.co/spaces/acceptee/DiT4SR)
-* DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models. [arxiv](https://arxiv.org/pdf/2502.03810) and [code](https://github.com/kkkls/DeblurDiff)
+* DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models. NIPS 2025. [arxiv](https://arxiv.org/pdf/2502.03810) and [code](https://github.com/kkkls/DeblurDiff)
 * A Diffusion-Based Framework for Occluded Object Movement. AAAI 2025. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32287/34442) and [arxiv](https://arxiv.org/pdf/2504.01873)
 * DiffRetouch: Using Diffusion to Retouch on the Shoulder of Experts. AAAI 2025. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32288/34443) and [arxiv](https://arxiv.org/pdf/2407.03757)
 * Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos. TIP 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10693312/), [arxiv](https://arxiv.org/abs/2410.11828) and [code](https://wzhouxiff.github.io/projects/FIR2FVR/FIR2FVR)
