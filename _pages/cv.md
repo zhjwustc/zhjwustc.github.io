@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* 2018-: Staff in Sensetime
+* 2025-: Staff in Xiaomi
+* 2018-2025: Staff in Sensetime
   * Low-level Vision for Camera Phones
 
 * 2018: Intern in WeRide
